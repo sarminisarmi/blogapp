@@ -15,7 +15,7 @@ function App() {
         <BlogNav />
         <div className="content">
           <Routes>
-            <Route path="/" element={<Posts />} />
+            <Route path="/blogapp" element={<Posts />} />
             <Route path="/post1" element={<Post1 />} />
             <Route path="/post2" element={<Post2 />} />
             <Route path="/post3" element={<Post3 />} />
