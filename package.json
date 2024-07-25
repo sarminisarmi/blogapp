@@ -1,4 +1,5 @@
 {
+  "homepage": "https://sarminisarmi.github.io/blogapp",
   "name": "blog",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +16,6 @@
 
 
   },
-  "homepage": "https://sarminisarmi.github.io/blogapp",
 
   
   "scripts": {
